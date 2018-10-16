@@ -1,2 +1,3 @@
 # OODesign-Programming_COP4331_Project
-Student project (two members)
+FAU senior undergraduate course
+(two members)
